@@ -4,13 +4,12 @@ const nextConfig = {
   // Dev server requires this to be undefined/removed
   ...(process.env.NEXT_EXPORT === 'true' && { 
     output: 'export',
+    basePath: '/AA-Wheels', // Required for GitHub Pages project sites
     trailingSlash: true, // Required for GitHub Pages compatibility
   }),
   images: {
     unoptimized: true, // Required for static export
   },
-  // If your site is hosted at a subdirectory (e.g., github.io/repo-name), uncomment below:
-  // basePath: '/AA-Wheels',
 }
 
 module.exports = nextConfig
