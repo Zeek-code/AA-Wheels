@@ -36,6 +36,14 @@ jobs:
         env:
           NEXT_EXPORT: 'true'
 
+      - name: Copy .nojekyll to output
+        run: |
+          if [ -f .nojekyll ]; then
+            cp .nojekyll out/.nojekyll
+          else
+            touch out/.nojekyll
+          fi
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
