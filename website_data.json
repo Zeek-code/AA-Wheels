@@ -1,0 +1,188 @@
+{
+  "site_info": {
+    "name": "AA Wheel & Truck Supply",
+    "title": "Your trusted partner for the right part, on time, every time!",
+    "tagline": "Supplying Quality Truck & Trailer Parts Nationwide.",
+    "description": "At AA Wheel & Truck Supply, we are your most trusted truck and trailer parts supplier. Providing services to operators, shops, and independent drivers across the Midwest."
+  },
+  "navigation": {
+    "main": [
+      {"text": "Home", "href": "/"},
+      {"text": "About", "href": "/about"},
+      {"text": "Products & Supplier", "href": "/products"},
+      {"text": "Where to Buy", "href": "/where-to-buy"},
+      {"text": "Forms Library", "href": "/forms"},
+      {"text": "Contact Us", "href": "/contact"}
+    ],
+    "footer": [
+      {"text": "About Us", "href": "/about"},
+      {"text": "Products & Specials", "href": "/products"},
+      {"text": "Where to Buy", "href": "/where-to-buy"},
+      {"text": "Testimonials", "href": "/testimonials"},
+      {"text": "Contact Us", "href": "/contact"},
+      {"text": "Privacy Policy", "href": "/privacy"},
+      {"text": "Terms & Conditions", "href": "/terms"}
+    ]
+  },
+  "content": {
+    "hero": {
+      "title": "Your trusted partner for the right part, on time, every time!",
+      "subtitle": "Supplying Quality Truck & Trailer Parts Nationwide.",
+      "cta": "Become a Customer",
+      "cta_secondary": "Shop Now"
+    },
+    "about": {
+      "heading": "What We Do at AA Wheel & Truck Supply",
+      "content": "At AA Wheel & Truck Supply, we are your most trusted truck and trailer parts supplier. Providing services to operators, shops, and independent drivers across the Midwest. Our vast inventory includes heavy-duty truck parts, air brake components, trailer axle components, and much more. We are readily equipped for a fast delivery to your doorstep. Our specialties include providing OEM truck parts and aftermarket solutions, including Meritor brake components, Dexter axle parts, and Aloca truck wheels. So whether you're looking for replacement parts for trailers, brake parts for semi-trucks, or truck suspension parts, our knowledgeable team is here to help. As the most trusted and leading wholesale truck parts supplier, we serve Kansas City, Omaha, and Springfield with heavy-duty, DOT-approved products and industry expertise you can rely on."
+    },
+    "features": [
+      {
+        "number": "01",
+        "title": "Customer Focused Mindset",
+        "description": "We develop strategies focusing on the daily challenges that truck drivers and technicians face. Therefore, we provide what our customers want."
+      },
+      {
+        "number": "02",
+        "title": "Industry Expertise",
+        "description": "We have been the leaders in this industry for over 25 years and are constantly evolving to provide more durable and high-quality parts and solutions for modern fleets."
+      },
+      {
+        "number": "03",
+        "title": "In-House Technical Support",
+        "description": "Precision is important. From brake assemblies to wheel fittings, every product is created accurately. If you still require any support, we have a super-responsive in-house technical support team."
+      },
+      {
+        "number": "04",
+        "title": "Fast, Reliable Delivery",
+        "description": "Your product is delivered just like the way you saw it in the pictures. We provide a reliable and fast delivery to provide you with the best customer experience."
+      }
+    ],
+    "products": [
+      {
+        "category": "Suspension",
+        "name": "Suspension",
+        "description": "Reliable Performance and Ride Stability - AA Wheel and Truck Supply provides the most durable suspensions, engineered for heavy-duty action and performance. Our suspension parts are made to absorb road shocks, reduce wear on your vehicle, and provide a smoother rider under immense loads. Ideal for fleets, trailers, and commercial trucks that provide stability and comfort.",
+        "image": "/images/suspension.jpg"
+      },
+      {
+        "category": "Dressed Axles",
+        "name": "Dressed Axles",
+        "description": "Complete Axle Assemblies - These are completely dressed axles come pre-assembled with all the essential components which includes brakes, bearings and hubs. Crafted according to OEM specifications, these axles provide seamless installation, minimized downtime and exceptional reliability. Ideal for replacements or new builds, these axles provide front and rear application in heavy-duty trucks and trailers.",
+        "image": "/images/dressed-axles.jpg"
+      },
+      {
+        "category": "Chemicals and Lubricants",
+        "name": "Chemicals and Lubricants",
+        "description": "Premium-grade chemicals and lubricants designed to enhance performance and provide superior protection, ensuring your machinery and equipment operate at their best under varying conditions.",
+        "image": "/images/chemicals.jpg"
+      },
+      {
+        "category": "Safety Equipment",
+        "name": "Safety Equipment",
+        "description": "The presence of essential safety equipment is vital for safeguarding employees and maintaining regulatory compliance in various workplaces. This equipment not only serves as a protective barrier against potential hazards but also fosters a culture of safety and responsibility.",
+        "image": "/images/safety.jpg"
+      },
+      {
+        "category": "Cargo Security",
+        "name": "Cargo Security",
+        "description": "Reliable cargo security solutions meticulously crafted to provide unwavering protection for your valuable shipments, guaranteeing their safe and secure arrival at their intended destination.",
+        "image": "/images/cargo-security.jpg"
+      },
+      {
+        "category": "Trailer Body Parts",
+        "name": "Trailer Body Parts",
+        "description": "Heavy-Duty Trailer Body Components - From structural improvements to side panels and doors, our trailer body parts are crafted to provide efficiency and durability. These components are easy to fit and provide resistance to wear, weather and road stress.",
+        "image": "/images/trailer-body.jpg"
+      },
+      {
+        "category": "Air & Hydraulic Components",
+        "name": "Air & Hydraulic Components",
+        "description": "High-quality air and hydraulic components for heavy-duty truck and trailer applications.",
+        "image": "/images/air-hydraulic.jpg"
+      },
+      {
+        "category": "Brake Parts",
+        "name": "Brake Parts",
+        "description": "DOT-approved brake parts including Meritor brake components for reliable stopping power.",
+        "image": "/images/brake-parts.jpg"
+      },
+      {
+        "category": "Lighting & Electrical",
+        "name": "Lighting & Electrical",
+        "description": "Complete lighting and electrical solutions for trucks and trailers.",
+        "image": "/images/lighting.jpg"
+      }
+    ],
+    "testimonials": [
+      {
+        "author": "chris",
+        "date": "2025-08-24",
+        "text": "Terrence will go above and beyond to help the customer. You can tell he loves the companies customers and the parts he sells are more than just a job to him. He single handedly earned my business for life."
+      },
+      {
+        "author": "Mikel Eades",
+        "date": "2025-04-04",
+        "text": "This place is the place to go to get your heavier duty trailer parts. I am very pleased with Terrence Crith. Phenomenal customer service, knows what he's talking about, gets you what you need down to a T. My customer was in an emergency and needed an 8k axle ASAP and Terrance went above and beyond."
+      },
+      {
+        "author": "Randy Stanton",
+        "date": "2024-09-14",
+        "text": "Have been using them for many years. They have always had what I needed! And Great Service!!"
+      },
+      {
+        "author": "Dane Greathouse",
+        "date": "2024-04-23",
+        "text": "Great service and competitive prices."
+      },
+      {
+        "author": "Shane Johnson",
+        "date": "2023-11-02",
+        "text": "Great place for truck and trailer parts."
+      },
+      {
+        "author": "Rennae Paxton",
+        "date": "2023-09-21",
+        "text": "Wymond has wonderful customer service and very knowledgeable!! Thanks for all your help today!"
+      },
+      {
+        "author": "Robbie House",
+        "date": "2023-06-19",
+        "text": "This place has earned my business through good pricing, excellent service, and a knowledgeable staff."
+      }
+    ]
+  },
+  "contact": {
+    "phone": [
+      "800-688-2953",
+      "800-467-0060",
+      "800-486-4335",
+      "(816) 221-9556",
+      "(402) 597-6118"
+    ],
+    "locations": [
+      {
+        "city": "Omaha, NE",
+        "phone": "800-688-2953"
+      },
+      {
+        "city": "Springfield, MO",
+        "phone": "800-467-0060"
+      },
+      {
+        "city": "North Kansas City, MO",
+        "phone": "800-486-4335"
+      }
+    ]
+  },
+  "social": {
+    "instagram": "https://instagram.com/aawheel",
+    "whatsapp": "https://wa.me/",
+    "facebook": "https://facebook.com/aawheel"
+  },
+  "correlations": {
+    "home_to_products": "CTA buttons link to products page",
+    "products_to_contact": "Product pages link to contact for quotes",
+    "home_to_about": "About section links from hero"
+  }
+}
+
